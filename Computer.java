@@ -15,13 +15,12 @@ class Computer {
     your.laptop_method();
   }
 }
- 
 class Laptop {
   Laptop() {
     System.out.println("Constructor of Laptop class.");
   }
  
   void laptop_method() {
-    System.out.println("99% Battery available.");
+    System.out.println("90% Battery available.");
   }
 } 
